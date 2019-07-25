@@ -1,40 +1,37 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jesse McNichol
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jesse
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CBIOMES Postdoc, Fuhrman Lab
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I use modern molecular tools and classical approaches to study microbial biogeography, physiology, and metabolism.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Marine Microbiology
+- Energy Conservation Mechanisms in Chemoautotrophs
+- Laboratory / Computational Methods Development
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ph.D., Biological Oceanography
+    institution: MIT / WHOI Joint Program in Biological Oceanography
+    year: 2016
+  - course: B.Sc., Biology
+    institution: Mount Allison University
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mcnichol at alum dot mit dot edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jcmcnick
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&pli=1&user=8aUVZB4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jcmcnch
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a recent graduate of the MIT-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography. During my PhD, I studied the biogeochemistry/ecophysiology of chemoautotrophic Campylobacteria (prev. Epsilonproteobacteria) under the guidance of Dr. Stefan Sievert. Currently, I am working as a Postdoc at the University of Southern California with Dr. Jed Fuhrman. This position is part of a larger project funded by the Simons Foundation to model the biogeochemistry of oceans on basin scales. From Nov 2016-Nov 2017, I worked at the Chinese University of Hong Kong with Dr. Haiwei Luo where I focused mainly on microbial isolation and single-cell genomic analyses. Before my PhD, I worked with the National Research Council of Canada on algal biofuels research in Halifax, NS, Canada. I completed my undergraduate degree in Biology on Canada's east coast at Mount Allison University in Sackville, NB and am originally from Kingston, Ontario, Canada.
