@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mcnichol at alum dot mit dot edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mcnichol@alum.mit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jcmcnick
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a recent graduate of the MIT-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography. During my PhD, I studied the biogeochemistry/ecophysiology of chemoautotrophic Campylobacteria (prev. Epsilonproteobacteria) under the guidance of Dr. Stefan Sievert. Currently, I am working as a Postdoc at the University of Southern California with Dr. Jed Fuhrman. This position is part of a larger project funded by the Simons Foundation to model the biogeochemistry of oceans on basin scales. From Nov 2016-Nov 2017, I worked at the Chinese University of Hong Kong with Dr. Haiwei Luo where I focused mainly on microbial isolation and single-cell genomic analyses. Before my PhD, I worked with the National Research Council of Canada on algal biofuels research in Halifax, NS, Canada. I completed my undergraduate degree in Biology on Canada's east coast at Mount Allison University in Sackville, NB and am originally from Kingston, Ontario, Canada.
+I am a recent graduate of the MIT-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography. During my PhD, I studied the biogeochemistry / ecophysiology of chemoautotrophic *Campylobacteria* (prev. *Epsilonproteobacteria*) under the guidance of Dr. Stefan Sievert. Currently, I am working as a Postdoc at the University of Southern California with Dr. Jed Fuhrman. This position is part of a larger project funded by the Simons Foundation to model the biogeochemistry of oceans on basin scales. From Nov 2016-Nov 2017, I worked at the Chinese University of Hong Kong with Dr. Haiwei Luo where I focused mainly on microbial isolation and single-cell genomic analyses. Before my PhD, I worked with the National Research Council of Canada on algal biofuels research in Halifax, NS, Canada. I completed my undergraduate degree in Biology on Canada's east coast at Mount Allison University in Sackville, NB and am originally from Kingston, Ontario, Canada.
