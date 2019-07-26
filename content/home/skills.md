@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "fa-python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Bioinformatics / Scripting"
+  description = "Data analysis & munging, bash / snakemake pipeline construction."
   
 [[feature]]
-  icon = "chart-line"
+  icon = "fa-dna"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Molecular Methods"
+  description = "CARD-FISH, SSU rRNA tag sequencing, \'omics"
+
+[[feature]]
+  icon = "fa-flask"
+  icon_pack = "fas"
+  name = "Cultivation Experience"
+  description = "Anoxic/microoxic chemostat methods development, isolation of novel chemoautotrophs under microoxic/anoxic conditions, and high-throughput isolation of Alphaproteobacteria."  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-ship"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Cruise / Field Work"
+  description = "High-pressure cultivation experience for deep-sea samples on 3 NSF-funded cruises (hydrothermal vents as well as deep-sea sediments)."
 
 +++
