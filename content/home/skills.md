@@ -24,7 +24,7 @@ subtitle = ""
   icon = "fa-dna"
   icon_pack = "fas"
   name = "Molecular Methods"
-  description = "CARD-FISH, SSU rRNA tag sequencing, \'omics"
+  description = "CARD-FISH, SSU rRNA tag sequencing, 'omics"
 
 [[feature]]
   icon = "fa-flask"
