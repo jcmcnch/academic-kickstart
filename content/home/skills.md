@@ -30,7 +30,7 @@ subtitle = ""
   icon = "fa-flask"
   icon_pack = "fas"
   name = "Cultivation Experience"
-  description = "Anoxic/microoxic chemostat methods development, isolation of novel chemoautotrophs under microoxic/anoxic conditions, and high-throughput isolation of Alphaproteobacteria."  
+  description = "Anoxic/microoxic chemostat methods development, isolation of novel chemoautotrophs, and high-throughput isolation of Alphaproteobacteria."  
   
 [[feature]]
   icon = "fa-ship"
