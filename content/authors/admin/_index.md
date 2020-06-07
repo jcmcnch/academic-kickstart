@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mcnichol@alum.mit.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mcnichol at alum.mit.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jcmcnick
@@ -53,7 +53,7 @@ social:
   link: https://github.com/jcmcnch
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/jcm-vita.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a recent graduate of the MIT-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography. During my PhD, I studied the biogeochemistry / ecophysiology of chemoautotrophic *Campylobacteria* (prev. *Epsilonproteobacteria*) under the guidance of Dr. Stefan Sievert. Currently, I am working as a Postdoc at the University of Southern California with Dr. Jed Fuhrman. This position is part of a larger project funded by the Simons Foundation to model the biogeochemistry of oceans on basin scales. From Nov 2016-Nov 2017, I worked at the Chinese University of Hong Kong with Dr. Haiwei Luo where I focused mainly on microbial isolation and single-cell genomic analyses. Before my PhD, I worked with the National Research Council of Canada on algal biofuels research in Halifax, NS, Canada. I completed my undergraduate degree in Biology on Canada's east coast at Mount Allison University in Sackville, NB and am originally from Kingston, Ontario, Canada.
+Hi, welcome to my website! I am graduate of the MIT-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography. During my PhD, I studied the biogeochemistry / ecophysiology of chemoautotrophic *Campylobacteria* (prev. *Epsilonproteobacteria*) under the guidance of Dr. Stefan Sievert. Currently, I am working as a Postdoc at the University of Southern California with Dr. Jed Fuhrman. This position is part of a larger project funded by the Simons Foundation ([CBIOMES](https://cbiomes.org "CBIOMES Homepage")) to model the biogeochemistry of oceans on basin scales. I am contributing to this effort by generating new amplicon datasets from materials shared by collaborators using the Fuhrman Lab's ([universal (16S/18S) primers](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.13023 "Link to Parada et al paper")). Since the resulting data provide a comprehensive profile of the entire community, they can be used to better understand microbial biogeography and help contribute to model validation and development. During my time in the Fuhrman lab, I've also become interested in reproducible data analysis. This has led me to learn how to use workflow management tools such as snakemake to answer simple biological questions that are not necessarily straightforward computationally ([see for example my MGPrimerEval pipeline](https://github.com/jcmcnch/MGPrimerEval "MGPrimerEval snakemake pipeline")). Before coming to USC, I worked for one year at the Chinese University of Hong Kong with Dr. Haiwei Luo where I focused mainly on microbial isolation and single-cell genomic analyses. Before my PhD, I worked with the National Research Council of Canada on algal biofuels research in Halifax, NS, Canada. I completed my undergraduate degree in Biology on Canada's east coast at Mount Allison University in Sackville, NB and am originally from Kingston, Ontario, Canada.
