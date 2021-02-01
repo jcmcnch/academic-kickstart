@@ -1,0 +1,5 @@
+disableKinds:
+- taxonomy
+- taxonomyTerm
+- home
+- section
